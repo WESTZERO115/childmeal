@@ -8,7 +8,6 @@
                 Statement statement = connection.createStatement();
                 // check with RDS DB:
                 ResultSet rs = statement.executeQuery("SELECT * FROM STORELIST");
-                Log.v("태그", "STORELIST에서 store_address칼럼만 가져옴");
 
                 int pointer = 0;
                 while(rs.next()){
@@ -31,12 +30,10 @@
                     con.setDoOutput(true);
                     con.setUseCaches(false);
                     con.setDefaultUseCaches(false);
-                    //Log.v("태그", "geo_ setDefaultUseCaches");
                     Charset charset = Charset.forName("UTF-8");
                     BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream(), charset));
                     String inputLine;
                     StringBuffer response = new StringBuffer();
-                    //Log.v("태그", "geo_ inputLine 선언");
 
                     while ((inputLine = in.readLine()) != null) {
                         response.append(inputLine);
