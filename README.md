@@ -24,9 +24,13 @@
 <img width="823" alt="스크린샷 2022-05-24 오후 8 48 33" src="https://user-images.githubusercontent.com/65750746/170030702-887606fa-7036-4b99-b002-515ee4c97b3a.png">
 
 ## USER CASE (페르소나)
+<details>
+<summary>아동 & 보호자 & 지자체 담당 직원</summary>
+<div markdown="1">
 <img width="800" alt="스크린샷 2022-05-16 오후 9 22 32" src="https://user-images.githubusercontent.com/65750746/168591490-94d4918a-a772-4b3d-b851-69180ce95f57.png">
 <img width="800" alt="스크린샷 2022-05-16 오후 9 22 48" src="https://user-images.githubusercontent.com/65750746/168591522-592f2b0f-22f7-4e73-8b46-9785808d44b1.png">
 <img width="800" alt="스크린샷 2022-05-16 오후 9 23 03" src="https://user-images.githubusercontent.com/65750746/168591571-3815e279-cbd7-44e0-a96d-8ddb8b977504.png">
-
+</div>
+</details>
 
 ## 결과물 
