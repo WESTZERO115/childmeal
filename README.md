@@ -22,7 +22,8 @@
 8) 유저케이스를 위주로 [ 부족 영양분 > 거리 > 아이의 선호도 ] 순으로 우선 순위를 매겨 식단&식당(가맹점) 추천알고리즘 구현
 
 ## 구성도
-<img width="823" alt="스크린샷 2022-05-24 오후 8 48 33" src="https://user-images.githubusercontent.com/65750746/170030702-887606fa-7036-4b99-b002-515ee4c97b3a.png">
+<img width="841" alt="스크린샷 2022-06-06 오후 11 24 46" src="https://user-images.githubusercontent.com/65750746/172187706-52a84c6c-2923-4da1-8a31-9b0a9be3e29d.png">
+
 
 ## USER CASE (페르소나)
 <details>
