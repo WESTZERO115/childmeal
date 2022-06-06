@@ -12,14 +12,16 @@
 - 자녀의 영양 상태 확인
 
 ## 적용 기술
-1) AWS RDS - MySQL 
+1) AWS RDS (MySQL) 구축 
 2) 데이터베이스는 Workbench를 이용해 시각화
 3) 안드로이드 스튜디오를 이용해 어플리케이션 개발
-4) 카카오맵 API를 이용, REST API를 이용해 GeoCoding (JSON 데이터 파싱)
+4) 카카오맵 API로 지도 구현, REST API를 이용해 GeoCoding (JSON 데이터 파싱)
 5) 웹 크롤링을 통해 구글 이미지 데이터 수집 (음식 당 약 400개)
 6) Teachable Machine으로 이미지 분류 모델 생성
-7) 안드로이드 스튜디오에 TensorFlow Light 모델로 연동
+7) TensorFlow Light 모델로 변환하여 안드로이드 스튜디오에 적재
 8) 유저케이스를 위주로 [ 부족 영양분 > 거리 > 아이의 선호도 ] 순으로 우선 순위를 매겨 식단&식당(가맹점) 추천알고리즘 구현
+9) AWS에 파이썬 서버를 구축하여 안드로이드 스튜디오와 통신하는 소켓 프로그래밍
+10) EKS에 EFK(ElasticSearch + Fluentd + Kibana) 스택을 설치하여 모니터링
 
 ## 구성도
 <img width="841" alt="스크린샷 2022-06-06 오후 11 24 46" src="https://user-images.githubusercontent.com/65750746/172187706-52a84c6c-2923-4da1-8a31-9b0a9be3e29d.png">
