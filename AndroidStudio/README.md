@@ -20,4 +20,4 @@ geocoding_func().java 파일은 AWS_RDS.java파일에서 주소를 위도&경도
 ### 부모 파일
 - Login_and_SignUp_Parents.java : 아이디 & 비밀번호로 로그인, 회원가입
 - Parents_main.java : 부모 메인 화면으로, 자녀들의 리스트뷰 형태로 나타남
-- Parents_addchild.java : 아동급식카드 번호로 자녀 추가 등록하는 
+- Parents_addchild.java : 아동급식카드 번호로 자녀 추가 등록하는 화면
