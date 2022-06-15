@@ -23,12 +23,16 @@
 9) AWS EC2인스턴스로 파이썬 서버를 구축하여 안드로이드 스튜디오와 통신하는 소켓 프로그래밍
 10) EKS에 EFK(ElasticSearch + Fluentd + Kibana) 스택을 설치하여 모니터링
 
-<img width="280" alt="image" src="https://user-images.githubusercontent.com/65750746/173902004-f44bbc7c-04d8-4365-8048-52ece33eff81.png">
-<img width="280" alt="image" src="https://user-images.githubusercontent.com/65750746/173902056-4f80d3ea-7408-4d17-91fe-ac31950498ed.png">
-<img width="280" alt="image" src="https://user-images.githubusercontent.com/65750746/173902072-a1da86d4-9778-4d47-b7e5-24f89261677a.png">
-<img width="280" alt="image" src="https://user-images.githubusercontent.com/65750746/173902116-a3e6af99-e544-47b8-b72e-617d94ec5cc5.png">
-<img width="280" alt="image" src="https://user-images.githubusercontent.com/65750746/173902145-bd07a12e-c925-4cad-87b1-869fc8b9f28e.png">
-<img width="280" alt="image" src="https://user-images.githubusercontent.com/65750746/173902170-ab91195b-165a-431a-b7ab-dcf106905b70.png">
+<table>
+  <tr>
+    <td align="center"><img width="100px" alt="image" src="https://user-images.githubusercontent.com/65750746/173902004-f44bbc7c-04d8-4365-8048-52ece33eff81.png"></td>
+    <td align="center"><img width="100px" alt="image" src="https://user-images.githubusercontent.com/65750746/173902056-4f80d3ea-7408-4d17-91fe-ac31950498ed.png"></td>
+    <td align="center"><img width="100px" alt="image" src="https://user-images.githubusercontent.com/65750746/173902072-a1da86d4-9778-4d47-b7e5-24f89261677a.png"></td>
+    <td align="center"><img width="100px" alt="image" src="https://user-images.githubusercontent.com/65750746/173902116-a3e6af99-e544-47b8-b72e-617d94ec5cc5.png"></td>
+    <td align="center"><img width="150px" alt="image" src="https://user-images.githubusercontent.com/65750746/173902145-bd07a12e-c925-4cad-87b1-869fc8b9f28e.png"></td>
+    <td align="center"><img width="100px" alt="image" src="https://user-images.githubusercontent.com/65750746/173902170-ab91195b-165a-431a-b7ab-dcf106905b70.png"></td>
+  </tr>
+</table>
 
 ## 구성도
 <img width="841" alt="스크린샷 2022-06-06 오후 11 24 46" src="https://user-images.githubusercontent.com/65750746/172187706-52a84c6c-2923-4da1-8a31-9b0a9be3e29d.png">
