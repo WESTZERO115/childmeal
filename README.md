@@ -23,6 +23,8 @@
 9) AWS EC2인스턴스로 파이썬 서버를 구축하여 안드로이드 스튜디오와 통신하는 소켓 프로그래밍
 10) EKS에 EFK(ElasticSearch + Fluentd + Kibana) 스택을 설치하여 모니터링
 
+MIRICANVAS_ITEM_COPY_KEY
+
 ## 구성도
 <img width="841" alt="스크린샷 2022-06-06 오후 11 24 46" src="https://user-images.githubusercontent.com/65750746/172187706-52a84c6c-2923-4da1-8a31-9b0a9be3e29d.png">
 
