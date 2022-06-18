@@ -91,7 +91,16 @@
   </tr>
 </table>
 
-- [아동] 식단 직접 기록 후, 가맹점 음식 기반 식단 추천 받기
+- [아동] 음식 사진 인식에 실패했다고 가정하여 식단을 직접 기록한 후, 가맹점 음식 기반 식단 추천 받기
+<table>
+  <tr>
+    <td align="center"><img width="230" height="350" alt="1" src="https://user-images.githubusercontent.com/65750746/174458291-9e4cf5c5-a9bc-4147-9c94-8f788775a121.png"></td>
+    <td align="center"><img width="230" height="350" alt="2" src="https://user-images.githubusercontent.com/65750746/174458308-a286369f-e29a-4984-a78a-96d8fc2239bf.png"></td>
+    <td align="center"><img width="230" height="350" alt="3" src="https://user-images.githubusercontent.com/65750746/174458314-ded37004-1862-4507-adb4-56a48c43f05a.png"></td>
+    <td align="center"><img width="230" height="350" alt="4" src="https://user-images.githubusercontent.com/65750746/174458328-64ff6da3-f971-432f-bd22-0c48cfdcaaa4.png"></td>
+  </tr>
+</table>
+
 
 - [부모] 회원 가입 후, 아동급식카드를 이용해 자녀 등록 & 자녀 정보 
 
