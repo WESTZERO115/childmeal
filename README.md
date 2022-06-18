@@ -89,7 +89,11 @@
     <td align="center"><img width="230" height="350" alt="10" src="https://user-images.githubusercontent.com/65750746/174428997-e0a990f6-68f6-4eca-9336-c490e95af53a.png"></td>
     <td align="center"><img width="230" height="350" alt="11" src="https://user-images.githubusercontent.com/65750746/174429006-ad107dea-6e47-4f53-bafe-52a956889368.png"></td>
   </tr>
-    
+</table>
+
+- [아동] 식단 직접 기록 후, 가맹점 음식 기반 식단 추천 받기
+
+- [부모] 회원 가입 후, 아동급식카드를 이용해 자녀 등록 & 자녀 정보 
 
 
 
