@@ -49,3 +49,13 @@
 </details>
 
 ## 결과물 
+- [아동] 회원가입 후 메인 화면으로 이동
+<table>
+  <tr>
+    <td align="center"><img width="230" height="400" alt="1" src="https://user-images.githubusercontent.com/65750746/174428253-0d6015d3-44e8-49c6-8651-0e5325c9cf44.png"></td>
+    <td align="center"><img width="230" height="400" alt="2" src="https://user-images.githubusercontent.com/65750746/174428318-854f2879-d20d-4cfe-8536-055f020b1c29.png"></td>
+    <td align="center"><img width="230" height="400" alt="3" src="https://user-images.githubusercontent.com/65750746/174428374-47e2a729-fe97-4cb3-ada7-10fa1a1ca52c.png"></td>
+    <td align="center"><img width="230" height="400" alt="4" src="https://user-images.githubusercontent.com/65750746/174428570-3ac415f3-7500-47a9-9e2e-ffc40572629f.png"></td>
+
+
+
