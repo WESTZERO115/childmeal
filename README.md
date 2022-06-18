@@ -69,25 +69,25 @@
 - [아동] 회원가입 후 메인 화면(현 위치 기반 주변 가맹점)으로 이동
 <table>
   <tr>
-    <td align="center"><img width="230" height="400" alt="1" src="https://user-images.githubusercontent.com/65750746/174428253-0d6015d3-44e8-49c6-8651-0e5325c9cf44.png"></td>
-    <td align="center"><img width="230" height="400" alt="2" src="https://user-images.githubusercontent.com/65750746/174428318-854f2879-d20d-4cfe-8536-055f020b1c29.png"></td>
-    <td align="center"><img width="230" height="400" alt="3" src="https://user-images.githubusercontent.com/65750746/174428374-47e2a729-fe97-4cb3-ada7-10fa1a1ca52c.png"></td>
-    <td align="center"><img width="230" height="400" alt="4" src="https://user-images.githubusercontent.com/65750746/174428570-3ac415f3-7500-47a9-9e2e-ffc40572629f.png"></td>
+    <td align="center"><img width="230" height="350" alt="1" src="https://user-images.githubusercontent.com/65750746/174428253-0d6015d3-44e8-49c6-8651-0e5325c9cf44.png"></td>
+    <td align="center"><img width="230" height="350" alt="2" src="https://user-images.githubusercontent.com/65750746/174428318-854f2879-d20d-4cfe-8536-055f020b1c29.png"></td>
+    <td align="center"><img width="230" height="350" alt="3" src="https://user-images.githubusercontent.com/65750746/174428374-47e2a729-fe97-4cb3-ada7-10fa1a1ca52c.png"></td>
+    <td align="center"><img width="230" height="350" alt="4" src="https://user-images.githubusercontent.com/65750746/174428570-3ac415f3-7500-47a9-9e2e-ffc40572629f.png"></td>
   </tr>
 </table>
 
 - [아동] 마이페이지 화면에서 식단 기록 후, 식단 내역 확인 & 부족 영양분 확인
 <table>
   <tr>
-    <td align="center"><img width="230" height="400" alt="5" src="https://user-images.githubusercontent.com/65750746/174428716-f16dddae-d72b-4455-9558-20d58200029f.png"></td>
-    <td align="center"><img width="230" height="400" alt="6" src="https://user-images.githubusercontent.com/65750746/174428879-62860996-a71f-4a01-9763-16622f366368.png"></td>
-    <td align="center"><img width="230" height="400" alt="7" src="https://user-images.githubusercontent.com/65750746/174428908-267577f6-d106-429d-ae67-8e6fca6644b1.png"></td>
-    <td align="center"><img width="230" height="400" alt="8" src="https://user-images.githubusercontent.com/65750746/174428913-c5fa60a6-7a04-44b9-8b90-64edf128b709.png"></td>
+    <td align="center"><img width="230" height="350" alt="5" src="https://user-images.githubusercontent.com/65750746/174428716-f16dddae-d72b-4455-9558-20d58200029f.png"></td>
+    <td align="center"><img width="230" height="350" alt="6" src="https://user-images.githubusercontent.com/65750746/174428879-62860996-a71f-4a01-9763-16622f366368.png"></td>
+    <td align="center"><img width="230" height="350" alt="7" src="https://user-images.githubusercontent.com/65750746/174428908-267577f6-d106-429d-ae67-8e6fca6644b1.png"></td>
+    <td align="center"><img width="230" height="350" alt="8" src="https://user-images.githubusercontent.com/65750746/174428913-c5fa60a6-7a04-44b9-8b90-64edf128b709.png"></td>
   </tr>
   <tr>
-    <td align="center"><img width="230" height="400" alt="9" src="https://user-images.githubusercontent.com/65750746/174428986-88a63f5f-81b8-4220-9a70-5d87aed33b9d.png"></td>
-    <td align="center"><img width="230" height="400" alt="10" src="https://user-images.githubusercontent.com/65750746/174428997-e0a990f6-68f6-4eca-9336-c490e95af53a.png"></td>
-    <td align="center"><img width="230" height="400" alt="11" src="https://user-images.githubusercontent.com/65750746/174429006-ad107dea-6e47-4f53-bafe-52a956889368.png"></td>
+    <td align="center"><img width="230" height="350" alt="9" src="https://user-images.githubusercontent.com/65750746/174428986-88a63f5f-81b8-4220-9a70-5d87aed33b9d.png"></td>
+    <td align="center"><img width="230" height="350" alt="10" src="https://user-images.githubusercontent.com/65750746/174428997-e0a990f6-68f6-4eca-9336-c490e95af53a.png"></td>
+    <td align="center"><img width="230" height="350" alt="11" src="https://user-images.githubusercontent.com/65750746/174429006-ad107dea-6e47-4f53-bafe-52a956889368.png"></td>
   </tr>
     
 
