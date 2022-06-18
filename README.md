@@ -103,6 +103,11 @@
 
 
 - [부모] 회원 가입 후, 아동급식카드를 이용해 자녀 등록 & 자녀 정보 
+<table>
+  <tr>
+    <td align="center"><img width="230" height="350" alt="1" src="https://user-images.githubusercontent.com/65750746/174458436-9a01a769-4adc-4ddc-a63c-3d137a8ec4df.png"></td>
+  </tr>
+</table>
 
 
 
