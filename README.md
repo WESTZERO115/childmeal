@@ -37,11 +37,28 @@
 ## 구성도
 <img width="841" alt="스크린샷 2022-06-06 오후 11 24 46" src="https://user-images.githubusercontent.com/65750746/172187706-52a84c6c-2923-4da1-8a31-9b0a9be3e29d.png">
 
+## DB 구조
+<details>
+<summary>아동 / 아동별 섭취 식단 / 음식별 영양분 / 부모 / 가맹점 / 나이별 하루 영양분 권장 섭취량  </summary>
+<div markdown="1">
+<table>
+  <tr>
+    <td align="center"><img width="200" alt="1" src="https://user-images.githubusercontent.com/65750746/174429602-bc3c369f-e36b-4e1a-b95d-f677d22c7117.png"></td>
+    <td align="center"><img width="200" alt="2" src="https://user-images.githubusercontent.com/65750746/174429648-99efd170-5351-4996-83b9-1e3d99bca367.png"></td>
+    <td align="center"><img width="200" alt="3" src="https://user-images.githubusercontent.com/65750746/174429660-a332b4df-c9f1-428a-9299-852616ea7f6a.png"></td>
+  </tr>
+    <td align="center"><img width="200" alt="4" src="https://user-images.githubusercontent.com/65750746/174429687-6c6f669a-199f-4c0e-b88e-7dfeb393e938.png"></td>
+    <td align="center"><img width="200" alt="5" src="https://user-images.githubusercontent.com/65750746/174429697-6ac18de2-b08d-4257-a94d-9c409b2c029c.png"></td>
+    <td align="center"><img width="200" alt="6" src="https://user-images.githubusercontent.com/65750746/174429733-1907d3b2-3939-460a-ba29-3ec89d38d989.png"></td>
+  </tr>
+</table>
+</div>
+</details>
 
 ## USER CASE (페르소나)
 <details>
 <summary>아동 & 보호자 & 지자체 담당 직원</summary>
-<div markdown="2">
+<div markdown="1">
 <img width="800" alt="스크린샷 2022-05-16 오후 9 22 32" src="https://user-images.githubusercontent.com/65750746/168591490-94d4918a-a772-4b3d-b851-69180ce95f57.png">
 <img width="800" alt="스크린샷 2022-05-16 오후 9 22 48" src="https://user-images.githubusercontent.com/65750746/168591522-592f2b0f-22f7-4e73-8b46-9785808d44b1.png">
 <img width="800" alt="스크린샷 2022-05-16 오후 9 23 03" src="https://user-images.githubusercontent.com/65750746/168591571-3815e279-cbd7-44e0-a96d-8ddb8b977504.png">
