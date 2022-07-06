@@ -35,7 +35,7 @@
 </table>
 
 ## 구성도
-<img width="841" alt="스크린샷 2022-06-06 오후 11 24 46" src="https://user-images.githubusercontent.com/65750746/172187706-52a84c6c-2923-4da1-8a31-9b0a9be3e29d.png">
+<img width="841" alt="스크린샷 2022-06-06 오후 11 24 46" src="https://user-images.githubusercontent.com/65750746/177537675-ba4aefdc-07f5-4538-93bc-75f935beef3d.png">
 
 ## DB 구조
 <details>
