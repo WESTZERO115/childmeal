@@ -119,5 +119,15 @@
   </tr>
 </table>
 
-
+### Contributors
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/WESTZERO115"><img src="https://avatars.githubusercontent.com/u/65750746?v=4" width="100px;" alt=""/><br /><sub><b>박서영</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/GAEULKIM"><img src="https://avatars.githubusercontent.com/u/67337714?v=4" width="100px;" alt=""/><br /><sub><b>김가을</b></sub></a><br/></td>
+  </tr>
+  <tr>
+   <td align="center"><sub><b>데이터 수집(웹크롤링), 안드로이드 앱 개발,</br>모니터링 스택 배포, 이미지분류 모델 생성,</br>소켓 프로그래밍 </b></sub></a><br/></td>
+   <td align="center"><sub><b>API 데이터 수집, DBA,</br> 추천시스템 구현 </b></sub></a><br/></td>
+  </tr>
+  </table>
 
