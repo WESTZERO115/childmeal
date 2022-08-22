@@ -41,22 +41,23 @@
 <img width="841" alt="스크린샷 2022-06-06 오후 11 24 46" src="https://user-images.githubusercontent.com/65750746/177537675-ba4aefdc-07f5-4538-93bc-75f935beef3d.png">
 
 ## DB 구조
-<details>
-<summary>아동 / 아동별 섭취 식단 / 음식별 영양분 / 부모 / 가맹점 / 나이별 하루 영양분 권장 섭취량  </summary>
-<div markdown="1">
+>아동 / 아동별 섭취 식단 / 음식별 영양분 
 <table>
   <tr>
     <td align="center"><img width="200" alt="1" src="https://user-images.githubusercontent.com/65750746/174429602-bc3c369f-e36b-4e1a-b95d-f677d22c7117.png"></td>
     <td align="center"><img width="200" alt="2" src="https://user-images.githubusercontent.com/65750746/174429648-99efd170-5351-4996-83b9-1e3d99bca367.png"></td>
     <td align="center"><img width="200" alt="3" src="https://user-images.githubusercontent.com/65750746/174429660-a332b4df-c9f1-428a-9299-852616ea7f6a.png"></td>
   </tr>
+</table>
+
+> 부모 / 가맹점 / 나이별 하루 영양분 권장 섭취량 
+<table>
+  <tr>
     <td align="center"><img width="200" alt="4" src="https://user-images.githubusercontent.com/65750746/174429687-6c6f669a-199f-4c0e-b88e-7dfeb393e938.png"></td>
     <td align="center"><img width="200" alt="5" src="https://user-images.githubusercontent.com/65750746/174429697-6ac18de2-b08d-4257-a94d-9c409b2c029c.png"></td>
     <td align="center"><img width="200" alt="6" src="https://user-images.githubusercontent.com/65750746/174429733-1907d3b2-3939-460a-ba29-3ec89d38d989.png"></td>
   </tr>
 </table>
-</div>
-</details>
 
 ## USER CASE (페르소나)
 <details>
